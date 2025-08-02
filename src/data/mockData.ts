@@ -12,7 +12,7 @@ export const mockUser: User = {
 export const mockProducts: Product[] = [
   {
     id: '1',
-    name: 'Premium Wireless Headphones',
+    name: 'Wireless Headphones',
     description: 'High-quality wireless headphones with active noise cancellation and premium sound quality.',
     price: 299.99,
     originalPrice: 399.99,
